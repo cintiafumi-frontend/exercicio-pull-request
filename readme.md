@@ -43,6 +43,7 @@
   ```
 
 * Entrar nesse repositório local
+
 	```
   cd On3-git-e-github
   ```
@@ -54,6 +55,7 @@
   ```
 
 * Entrar no VSCode
+
 	```
   code .
   ```
@@ -62,7 +64,7 @@
 	* Use o link do seu github para colocar no ***href*** na tag `<a>`. (Ex: https://github.com/reprograma)
 	* Use o link da imagem do seu avatar no github para colocar no src da tag `<img>`. Clique com o botão direito sobre a imagem do seu perfil no github e copie o endereço da imagem. (Ex: https://avatars0.githubusercontent.com/u/27314899?s=200&v=4)
 
-Exemplo:
+  Exemplo:
 
     **Antes:**
 
@@ -85,7 +87,7 @@ Exemplo:
         <p>Cintia Fumi</p>
     </div>
     ```
-    
+
 * Conferir essa alteração no navegador (Chrome).
 	* *Comportamento esperado: ao clicar na sua foto, o link do seu github irá se abrir numa aba nova*
 * Voltando para o gitbash
