@@ -57,11 +57,13 @@
 	```
   code .
   ```
-  
+
 * Alterar a imagem e o link para seu github na `<div>` que contiver seu nome.
 	* Use o link do seu github para colocar no ***href*** na tag `<a>`. (Ex: https://github.com/reprograma)
 	* Use o link da imagem do seu avatar no github para colocar no src da tag `<img>`. Clique com o botão direito sobre a imagem do seu perfil no github e copie o endereço da imagem. (Ex: https://avatars0.githubusercontent.com/u/27314899?s=200&v=4)
+
 Exemplo:
+
     **Antes:**
     ```
     <div class="container__aluna">
@@ -160,9 +162,9 @@ Exemplo:
 	obs: Nesse link acima, substituir `<seuLogin>` e `<seuNovoRepositorio>` com informações do seu login e seu repositório
 * Commitar o que está local para seu repo novo
 
-```
-git commit -m "Exercício para casa" --allow-empty
-```
+  ```
+  git commit -m "Exercício para casa" --allow-empty
+  ```
 
 * Subir o repo local para o seu repo
 	
