@@ -62,7 +62,8 @@
 
 * Alterar a imagem e o link para seu github na `<div>` que contiver seu nome.
 	* Use o link do seu github para colocar no ***href*** na tag `<a>`. (Ex: https://github.com/reprograma)
-	* Use o link da imagem do seu avatar no github para colocar no src da tag `<img>`. Clique com o botão direito sobre a imagem do seu perfil no github e copie o endereço da imagem. (Ex: https://avatars0.githubusercontent.com/u/27314899?s=200&v=4)
+	* Use o link da imagem do seu avatar no github para colocar no ***src*** da tag `<img>`. Clique com o botão direito sobre a imagem do seu perfil no github e copie o endereço da imagem. (Ex: https://avatars0.githubusercontent.com/u/27314899?s=200&v=4)
+  * Adicione seu nome no ***alt*** da tag `<img>`
 
   Exemplo:
 
