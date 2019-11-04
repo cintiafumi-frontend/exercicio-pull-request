@@ -65,6 +65,7 @@
 Exemplo:
 
     **Antes:**
+
     ```
     <div class="container__aluna">
         <a href="#" target="_blank">
@@ -73,7 +74,9 @@ Exemplo:
         <p>Cintia Fumi</p>
     </div>
     ```
+    
     **Depois:**
+    
     ```
     <div class="container__aluna">
         <a href="https://github.com/cintiafumi" target="_blank">
@@ -82,6 +85,7 @@ Exemplo:
         <p>Cintia Fumi</p>
     </div>
     ```
+    
 * Conferir essa alteração no navegador (Chrome).
 	* *Comportamento esperado: ao clicar na sua foto, o link do seu github irá se abrir numa aba nova*
 * Voltando para o gitbash
